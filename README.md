@@ -1,5 +1,5 @@
 # Jailhouse Blog Engine
-A simple golang blog engine (coming soon....) 
+A simple golang blog engine 
 
 ## License
 Copyright (c) 2020 IlMassa
